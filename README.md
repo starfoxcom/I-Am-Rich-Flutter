@@ -1,5 +1,6 @@
 # I Am Rich Flutter
 [![Codemagic build status](https://api.codemagic.io/apps/6182b82115ccba8bf85b00f4/6182b82115ccba8bf85b00f3/status_badge.svg)](https://codemagic.io/apps/6182b82115ccba8bf85b00f4/6182b82115ccba8bf85b00f3/latest_build)
+[![CodeFactor](https://www.codefactor.io/repository/github/starfoxcom/i-am-rich-flutter/badge)](https://www.codefactor.io/repository/github/starfoxcom/i-am-rich-flutter)
 
 This is an application created to follow up with a Flutter course.
 
